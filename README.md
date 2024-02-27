@@ -22,7 +22,7 @@ Absen SE - Sistem informasi SE merupakan aplikasi absensi berbasis web, yang dib
 ## Tampilan Homepage
 ![ss](asset/depan.png)
 ## Tampilan Admin
-![ss](asset/loginadmin.png)
+![ss](asset/admin.png)
 ![ss](asset/beranda1.png)
 ![ss](asset/beranda2.png)
 ![ss](asset/beranda3.png)
