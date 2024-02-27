@@ -7,9 +7,9 @@ Absensi dan Sistem Informasi SE berbasis web
 Absen SE - Sistem informasi SE merupakan aplikasi absensi berbasis web, yang dibuat untuk memenuhi kebutuhan museum untuk memudahkan admin dalam mencatat kehadiran SE.
 
 ## Fitur - fitur aplikasi :
-1.admin, dimana admin bisa mengontrol aplikasi, ini seperti menambahkan, melihat, mengubah atau menghapus data.
+1. Admin, dimana admin bisa mengontrol aplikasi, ini seperti menambahkan, melihat, mengubah atau menghapus data.
 
-2.Sistem absensi SE, sistem ini memungkinkan setiap SE melakukan absensi berdasarkan sesi nya masing - masing. Untuk mencegah penyalahgunaan data.
+2. Student Employment, sistem ini memungkinkan setiap SE melakukan absensi berdasarkan sesi nya masing - masing. Untuk mencegah penyalahgunaan data.
 
 ## Login Account
 |   Level   | Username  | Password   |
